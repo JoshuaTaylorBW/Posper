@@ -1,0 +1,11 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\j80ma_000\Documents\Unity\DotEscaper\Assets\Entities\Scripts\Player.cs" line="156" />
+      <Breakpoint file="C:\Users\j80ma_000\Documents\Unity\DotEscaper\Assets\Entities\Scripts\Her\HerMovement.cs" line="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
